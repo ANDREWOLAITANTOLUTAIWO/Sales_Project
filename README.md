@@ -1,4 +1,4 @@
-# Data Jobs Dashboard w/ Power BI
+# Data Jobs Dashboard with Power BI
 
 ![`sales_dashboard.pbix`](/images/sales.png)
 
