@@ -5,10 +5,10 @@
 
 ## Introduction
 
-This dashboard was created for **Job Seekers, Job Transitioners, and Job Swappers** to solve a common problem: information about the data job market is scattered and hard to grasp. Using a real-world dataset of 2024 data science job postings (including titles, salaries, and locations), this project provides a single, easy-to-use interface to explore market trends and compensation.
+This dashboard was created for **a sales department** to track sales, location performance and customer loyalty. Using a real-world dataset, this project provides a single, easy-to-use interface to explore total sales, quantity orders, sales trends and customer loyalty.
 
 ### Dashboard File
-You can find the file for the dashboard here: [`sales_dashboard.pbix`](/).  
+You can find the file for the dashboard here: [`sales_dashboard`](https://github.com/ANDREWOLAITANTOLUTAIWO/Sales_Project)
 
 ## Skills Showcased
 
